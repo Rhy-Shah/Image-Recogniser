@@ -8,3 +8,8 @@ You can also upload an image directly from the internet with its URL
 
 Please download the pre trained models and files from the following link:-
 https://www.dropbox.com/sh/pvk3fqq6owj9pjy/AACwPiJHo0OIoaOYnsP4DGLta?dl=0
+
+![image](https://user-images.githubusercontent.com/75095955/225618173-beb0844b-a998-4d8b-90e3-de663d80878c.png)
+![image](https://user-images.githubusercontent.com/75095955/225618195-c45a445f-9065-487e-8003-c0c104a73d9c.png)
+![image](https://user-images.githubusercontent.com/75095955/225618206-ba208bc9-2923-46f8-ad43-ec7ecec44184.png)
+![image](https://user-images.githubusercontent.com/75095955/225618241-3345d077-9dd2-4d07-83ad-cf798e76007c.png)
